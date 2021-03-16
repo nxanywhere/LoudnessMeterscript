@@ -19,5 +19,5 @@ sudo apt install ffmpeg
 ```
 - after installed to use in command
 ```sh
-bash -c "$(curl -fsSL
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/nxanywhere/LoudnessMeterscript/main/loudnesschecker.sh)"
 ```
