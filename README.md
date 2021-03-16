@@ -1,6 +1,8 @@
 # LoudnessMeterscript
 Loudness Meter for Mixing and Mastering tools
 
+Language : [EN](/readme.md) | [ภาษาไทย](/readme-th.md)
+
 <img width="1368" alt="Untitled" src="https://user-images.githubusercontent.com/79404127/111377846-ba7e6880-86d3-11eb-9ebb-2dc1538afab4.png">
 
 # How to Use?
