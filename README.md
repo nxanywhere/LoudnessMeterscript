@@ -1,6 +1,8 @@
 # LoudnessMeterscript
 Loudness Meter for Mixing and Mastering tools
 
+<img width="1368" alt="Untitled" src="https://user-images.githubusercontent.com/79404127/111377846-ba7e6880-86d3-11eb-9ebb-2dc1538afab4.png">
+
 # How to Use?
 ## For Windows (.cmd)
 - Download [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases) and create New Folder 
@@ -21,3 +23,4 @@ sudo apt install ffmpeg
 ```sh
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/nxanywhere/LoudnessMeterscript/main/loudnesschecker.sh)"
 ```
+
