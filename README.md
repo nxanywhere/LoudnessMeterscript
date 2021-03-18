@@ -7,6 +7,7 @@ Language : [EN](/README.md) | [ภาษาไทย](/readme-th.md)
 
 # How to Use?
 ## For Windows (.cmd)
+(Update 2021-03-19) : **Add Windows Openfile Dialog**
 - Download [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases) and create New Folder 
 - Move .cmd files to ffmpeg folder
 - run script and drag audio files to window script and enter
